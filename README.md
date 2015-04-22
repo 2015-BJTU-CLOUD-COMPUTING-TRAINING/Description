@@ -13,3 +13,11 @@
 
 ###技术架构
 ####SpringMVC + Spring + MyBatis + MySQL + Hadoop
+
+###Hadoop
+#### Master节点 (谭帅服务器) ip地址：172.31.34.33
+#### Slaver1节点 (胡志伟服务器) ip地址：172.31.34.107
+#### Slaver2节点 (薛琨玮服务器) ip地址：172.31.34.5
+
+#####http://172.31.34.33:8088/cluster/nodes 集群节点信息
+#####http://172.31.34.33:50070/dfshealth.html#tab-overview NameNode节点信息
